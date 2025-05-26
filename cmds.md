@@ -39,7 +39,7 @@
 | Commande | Description             |
 |----------|-------------------------|
 | `r!createroles` [nombre] [nom] | créer des roles le nombre de fois voulu avec le nom voulu  |
-| `r!createrolesplus` [nombre] [couleur] [nom] | créer des roles le nombre de fois voulu avec le nom voulu avec la couleur voulu  |
+| `r!createrolesplus` [nombre] [couleur] [nom] | créer des roles le nombre de fois voulu avec le nom voulu avec la couleur voulu (en hexa/html)  |
 | `r!deleteallroles` | suprimme tout les roles  |
 | `r!rolesadmins` | met a tous les roles la permissions admin  |
 
@@ -47,4 +47,12 @@
 
 | Commande | Description             |
 |----------|-------------------------|
-| `r!rolesadmins` | met a tous les roles la permissions admin  |
+| `r!msgall` [message] [nombres] | envoye un message dans tout les salons et le nombres de fois voulu |
+| `r!msgallpinghere`  [message] [nombres] | envoye un message dans tout les salons et le nombres de fois voulu avec le ping @here  |
+| `r!msgallpingeveryone`  [message] [nombres] | envoye un message dans tout les salons et le nombres de fois voulu avec le ping @everyone  |
+| `r!Ping` [nombres] | ping tt les salons @everyone le nombre de fois voulu |
+
+**Commandes Nuke**
+
+| Commande | Description             |
+|----------|-------------------------|
