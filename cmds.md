@@ -5,7 +5,12 @@
 | Commande | Description             |
 |----------|-------------------------|
 | `r!ping` | Affiche le ping du bot  |
+
+**Commandes Server**
+
+| Commande | Description             |
 |----------|-------------------------|
+| `r!renameserver` [nom] | rename le server avec le nom voulu  |
 
 **Commandes Users**
 
@@ -17,4 +22,29 @@
 | `r!ban` [mention or id] | Ban la personne choisis  |
 | `r!kickall` | kick toutes les personnes du serveur  |
 | `r!kick` [mention or id] | kick la personne choisis  |
-| `r!ping` | Affiche le ping du bot  |
+| `r!renameall` [pseudo] | renome tout le monde avec le pseudo choisis  |
+| `r!rename` [mention or id] [pseudo] | rename la personne de son choix avec le pseudo choisis  |
+
+**Commandes Channels**
+
+| Commande | Description             |
+|----------|-------------------------|
+| `r!createchannels` [nombre] [name]| crée des salons le nombre de fois voullu avec le nom voullu  |
+| `r!deleteallchannels` | supprime tous les salons du serveurs  |
+| `r!renameallchannels` [name] | rename tout les salons avec le nom donné  |
+| `r!cmdschannel` | suprimme tout les salons et en crée un sous le nom "cmds"  |
+
+**Commandes Roles**
+
+| Commande | Description             |
+|----------|-------------------------|
+| `r!createroles` [nombre] [nom] | créer des roles le nombre de fois voulu avec le nom voulu  |
+| `r!createrolesplus` [nombre] [couleur] [nom] | créer des roles le nombre de fois voulu avec le nom voulu avec la couleur voulu  |
+| `r!deleteallroles` | suprimme tout les roles  |
+| `r!rolesadmins` | met a tous les roles la permissions admin  |
+
+**Commandes Messages**
+
+| Commande | Description             |
+|----------|-------------------------|
+| `r!rolesadmins` | met a tous les roles la permissions admin  |
