@@ -1,6 +1,6 @@
 # 🚀 RaidScript - Commandes
 
-*e*
+**Commandes Utiles**
 
 | Commande | Description             |
 |----------|-------------------------|
