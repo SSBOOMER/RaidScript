@@ -5,6 +5,7 @@
 | Commande | Description             |
 |----------|-------------------------|
 | `r!ping` | Affiche le ping du bot  |
+|----------|-------------------------|
 
 **Commandes Users**
 
@@ -16,3 +17,4 @@
 | `r!ban` [mention or id] | Ban la personne choisis  |
 | `r!kickall` | kick toutes les personnes du serveur  |
 | `r!kick` [mention or id] | kick la personne choisis  |
+| `r!ping` | Affiche le ping du bot  |
