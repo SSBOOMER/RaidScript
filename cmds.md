@@ -5,3 +5,5 @@
 | Commande | Description             |
 |----------|-------------------------|
 | `r!ping` | Affiche le ping du bot  |
+
+**Commandes Users**
