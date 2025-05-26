@@ -1,0 +1,2 @@
+# RaidScript
+Raid Server Discord
