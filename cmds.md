@@ -10,4 +10,5 @@
 
 | Commande | Description             |
 |----------|-------------------------|
-| `r!dm` [user] | Affiche le ping du bot  |
+| `r!dmall` [nombre de fois] [message] | DM tout le monde le nombre de fois choisis et avec le message choisis  |
+| `r!dm` [mention or id] [nombre_de_fois] [message]| DM la personne choisis avec le message choisis le nombre de fois choisi  |
